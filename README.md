@@ -21,6 +21,6 @@ A React-based web application for screening and filtering stocks using the Alpha
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/stock-screener.git](https://github.com/ashishjsharda/stock-screener-react.git)
+    git clone https://github.com/ashishjsharda/stock-screener-react.git
     cd stock-screener-react
     ```
